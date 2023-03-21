@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narayana on </title>
+    <link>https://doks-child-theme.netlify.app/</link>
+    <description>Recent content in Narayana on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2020-2021 Henk Verlinde</copyright>
+    <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
+    
+        <atom:link href="https://doks-child-theme.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://doks-child-theme.netlify.app/documentation/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/documentation/</guid>
+      <description>Learn to use Narayana #Narayana Guide (Community-only features)
+Narayana Guide (EAP product related features)
+Narayana Quickstarts
+Narayana Javadocs
+Wiki #Our community users have also contributed a lot of useful content for various practical applications of the transaction manager that can act as a companion to the main documentation set. To access this, visit the articles section of the Narayana community space on jboss.org: Visit Narayana Wiki
+Specifications #WS-Coordination, v1.</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://doks-child-theme.netlify.app/downloads/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/downloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://doks-child-theme.netlify.app/blog/</link>
+      <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>https://doks-child-theme.netlify.app/docs/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/docs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
