@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Narayana on</title><link>https://marcosgopen.github.io/</link><description>Recent content in Narayana on</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><copyright>Copyright (c) 2020-2021 Henk Verlinde</copyright><lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate><atom:link href="https://marcosgopen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Documentation</title><link>https://marcosgopen.github.io/documentation/</link><pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate><guid>https://marcosgopen.github.io/documentation/</guid><description>Learn to use Narayana #
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Narayana on</title><link>https://marcosgopen.github.io/</link><description>Recent content in Narayana on</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><copyright>Copyright (c) 2020-2021 Henk Verlinde</copyright><lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate><atom:link href="https://marcosgopen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Certifications</title><link>https://marcosgopen.github.io/certifications/</link><pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate><guid>https://marcosgopen.github.io/certifications/</guid><description>LRA Certifications #
+LRA 1.0 Compatible Certification Request (CCR) #
+Getting Started #
+Download the latest version of Narayana standalone Or download the latest release of WildFly Read our getting started documentation Run our quickstarts Meet the team Get involved! Latest forum discussions #
+Latest news #
+Compliance #
+GNU Lesser General Public License, Version 2.1 Tested with Arquillian</description></item><item><title>Community</title><link>https://marcosgopen.github.io/community/</link><pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate><guid>https://marcosgopen.github.io/community/</guid><description>Forum #
+Narayana user forum is the best place to ask any project related questions, give suggestions, or request a new feature.
+Chat #
+Start contributing to our open conversations in our Zulip open-source organisation!
+Blog #
+All the latest Narayana project news and other interesting stuff is published in our blog.
+Visit Narayana Forum{.btn
+Chat With Us{.btn .btn-primary}
+Visit Narayana Blog{.btn .btn-primary}
+Mailing Lists #
+Also, we have a number of mailing lists available for you to subscribe:</description></item><item><title>Documentation</title><link>https://marcosgopen.github.io/documentation/</link><pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate><guid>https://marcosgopen.github.io/documentation/</guid><description>Learn to use Narayana #
 Narayana Guide (Community-only features)
 Narayana Guide (EAP product related features)
 Narayana Quickstarts
@@ -6,4 +22,21 @@ Narayana Javadocs
 Wiki #
 Our community users have also contributed a lot of useful content for various practical applications of the transaction manager that can act as a companion to the main documentation set. To access this, visit the articles section of the Narayana community space on jboss.org: Visit Narayana Wiki
 Specifications #
-WS-Coordination, v1.</description></item><item><title>Downloads</title><link>https://marcosgopen.github.io/downloads/</link><pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate><guid>https://marcosgopen.github.io/downloads/</guid><description/></item><item><title>Blog</title><link>https://marcosgopen.github.io/blog/</link><pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate><guid>https://marcosgopen.github.io/blog/</guid><description/></item><item><title>Docs</title><link>https://marcosgopen.github.io/docs/</link><pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate><guid>https://marcosgopen.github.io/docs/</guid><description/></item></channel></rss>
+WS-Coordination, v1.</description></item><item><title>Downloads</title><link>https://marcosgopen.github.io/downloads/</link><pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate><guid>https://marcosgopen.github.io/downloads/</guid><description>Latest Narayana Release #
+Version
+Date
+License
+Narayana Binary
+5.13.1.Final
+2022-11-16
+LGPL
+Narayana Source Code
+5.13.1.Final
+2022-11-16
+LGPL
+Legacy Narayana versions
+Other related files #
+Narayana JTS IDL Files #
+ArjunaOTS.idl CosTSInteroperation.idl CosTSPortability.idl CosTransactions.idl TSIdentification.idl XA.idl Narayana XTS WSDL and XSD Files #
+WS-C wscoor 1.1 WS-T wsarjtx WS-T wscoor 1.1 Getting Started #
+Download the latest version of Narayana standalone Or download the latest release of WildFly Read our getting started documentation Run our quickstarts Meet the team Get involved!</description></item><item><title>Blog</title><link>https://marcosgopen.github.io/blog/</link><pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate><guid>https://marcosgopen.github.io/blog/</guid><description/></item><item><title>Docs</title><link>https://marcosgopen.github.io/docs/</link><pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate><guid>https://marcosgopen.github.io/docs/</guid><description/></item></channel></rss>
