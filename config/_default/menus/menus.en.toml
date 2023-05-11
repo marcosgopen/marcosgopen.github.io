@@ -49,26 +49,38 @@
   name = "Community"
   weight = 40
   identifier = "community"
-  url = "/docs/prologue/quick-start/"
+  url = "/community/"
 
 [[main]]
   name = "Source Code"
   weight = 50
-  identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
-  parent = "community"
+  identifier = "sourcecode"
+
+[[main]]
+  name = "GitHub"
+  weight = 10
+  identifier = "github"
+  url= "https://github.com/jbosstm"
+  parent = "sourcecode"
+
+[[main]]
+  name = "FishEye"
+  weight = 20
+  identifier = "fisheye"
+  url= "https://github.com/jbosstm/narayana"
+  parent = "sourcecode"
 
 [[main]]
   name = "Issue Tracker"
   weight = 60
-  identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
+  identifier = "issuetracker"
+  url = "https://issues.redhat.com/projects/JBTM/issues/JBTM-3781?filter=allopenissues"
 
 [[main]]
   name = "Certifications"
   weight = 70
-  identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
+  identifier = "certifications"
+  url = "/certifications/"
 
 [[social]]
   name = "GitHub"
