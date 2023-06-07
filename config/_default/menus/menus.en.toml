@@ -74,7 +74,7 @@
   name = "Issue Tracker"
   weight = 60
   identifier = "issuetracker"
-  url = "https://issues.redhat.com/projects/JBTM/issues/JBTM-3781?filter=allopenissues"
+  url = "https://issues.redhat.com/projects/JBTM/issues"
 
 [[main]]
   name = "Certifications"
