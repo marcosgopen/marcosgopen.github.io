@@ -9,17 +9,9 @@ images: []
 layout: documentation
 weight: 100
 ---
-
-Web services support
-====================
-
-::: {.col-md-12}
-::: {.well}
- Developers and IT organizations won\'t implement any important Web
+> Developers and IT organizations won\'t implement any important Web
 services without being able to guarantee that they will be executed in a
 guaranteed manner. \-- Ronald Schmelzer, ZapThink
-:::
-:::
 
 In traditional ACID transaction systems, transactions are short lived,
 resources (such as databases) are locked for the duration of the

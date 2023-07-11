@@ -9,10 +9,6 @@ images: []
 layout: documentation
 weight: 100
 ---
-
-Jakarta EE Support
-==================
-
 Narayana implements the Jakarta Transactions 2.0 specification.
 
 Narayana is a 100% Java implementation of a distributed transaction

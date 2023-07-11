@@ -10,9 +10,6 @@ layout: documentation
 weight: 100
 ---
 
-Sub Projects
-============
-
 Business Activity Framework
 ---------------------------
 

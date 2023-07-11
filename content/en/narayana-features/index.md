@@ -9,10 +9,6 @@ images: []
 layout: documentation
 weight: 100
 ---
-
-Narayana Features
-=================
-
 Narayana is a pure Java multi-modal transaction service that supports
 distributed transactions in CORBA, J2EE and Web services environments.\
 \

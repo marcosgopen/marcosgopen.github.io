@@ -9,10 +9,6 @@ images: []
 layout: documentation
 weight: 100
 ---
-
-Presentations
-=============
-
 This page contains references to presentations that have been given over
 the years around various aspects of the JBoss Transaction Service (or
 its predecessor, the Arjuna Transaction Service).

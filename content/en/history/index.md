@@ -9,10 +9,6 @@ images: []
 layout: documentation
 weight: 100
 ---
-
-History
-=======
-
 On December 5th 2005, JBoss announced it acquired and would open source
 Java and Web Services distributed transaction management technology
 owned by Arjuna Technologies and HP. This move further propels the JBoss

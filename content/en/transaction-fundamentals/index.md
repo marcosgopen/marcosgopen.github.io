@@ -9,10 +9,6 @@ images: []
 layout: documentation
 weight: 100
 ---
-
-Transaction Fundamentals
-========================
-
 This page contains references to a selection of papers around the
 fundamentals of transaction processing.
 
